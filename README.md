@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rails Stripe Membership Saas
 ================
 
@@ -48,3 +49,7 @@ Credits
 
 License
 -------
+=======
+# workingSaasSite
+https://github.com/RailsApps/rails-stripe-membership-saas
+>>>>>>> 25495c3ff367350bcbdb358eb24746b64a04fb52
